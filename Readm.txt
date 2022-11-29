@@ -1,0 +1,1 @@
+This folder contains delta KE and delta V_mean plot vs er for three different floe radius 1250, 2500, 5000.
